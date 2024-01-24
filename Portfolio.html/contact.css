@@ -1,0 +1,57 @@
+.whole{
+    
+    align-items: center;
+}
+.mid{
+    display: flex;
+     justify-content: space-between;
+     padding-left: 500px;
+     padding-right: 500px;
+     padding-top: 50px;
+     font-family: Montserrat;
+     font-size: 20px;
+}
+.me{
+    padding-top: 200px;
+    padding-left: 830px;
+    font-family: Montserrat;
+    font-weight: bold;
+    color: gray;
+}
+.send{
+    padding-left: 900px;
+    padding-top: 50px;
+}
+.c{
+    font-size: 50px;
+}
+p{
+    color: gray;
+}
+.call, .email, .visit{
+    color: black;
+}
+.call{
+    padding-left: 6px;
+}
+.email{
+    padding-left: 110px;
+}
+.visit{
+    padding-left: 50px;
+}
+.b{
+    color: white;
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    border: 0;
+    font-family: verdana;
+}
+.b:hover{
+    color: black;
+    background-color: white;
+}

@@ -1,0 +1,119 @@
+.about, .intro{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.intro{
+    display: flex;
+    margin-top: 80px;
+}
+.one{
+    position: absolute;
+    font-size: 70px;
+    font-weight: bold;
+    font-family: syncopate;
+    color: gray;
+    padding-top: 50px;
+    margin-right: 350px;
+    margin-left: 350px;
+}
+.two{
+    position: relative;
+    font-size: 35px;
+    color: black;
+    font-family: Montserrat;
+    font-size: xx-large;
+    padding-top: 65px;
+    margin-left: 430px;
+}
+.images{
+    width: 400px;
+    filter: drop-shadow(black 1rem 1rem 10px);
+}
+.names{
+    padding-left: 50px;
+    font-family: Montserrat;
+    color: gray;
+    font-weight: bold;
+    font-size: 25px;
+}
+strong {
+    color: black;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: bold;
+}
+.yeah{
+    padding-left: 50px;
+    padding-top: 20px;
+    font-family: Montserrat;
+    font-size: 15px;
+    color:gray;
+    font-weight: bold;
+}
+.first, .second{
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    font-weight: bold;
+    font-family: Montserrat;
+}
+.phone{
+    padding-left: 25px;
+}
+.panga{
+    padding-left: 69px;
+}
+.to{
+    padding-top: 20px;
+}
+.ako, .num, .count, .ages{
+    color: gray;
+}
+.second{
+    padding-top: 10px;
+}
+.cc{
+    padding-left: 25px;
+}
+.age{
+    padding-left: 65px;
+}
+.count{
+    padding-left: 12px;
+}
+.ages{
+    padding-left: 35px;
+}
+.education{
+    padding-top: 50px;
+    padding-left: 90px;
+    font-family: Montserrat;
+}
+.edu{
+    padding-left: 130px;
+    font-weight: bold;
+    color: black;
+}
+.educ{
+    padding-left: 75px;
+    font-weight: bold;
+    color: gray;
+}
+.bach{
+    font-weight: bold;
+    color: gray;
+}
+img{
+    width: 30px;
+}
+button{
+    border: none;
+    border-radius: 50px;
+    background-color: #07142B;
+    padding: 0px;
+}
+.icons{
+    padding-left: 160px;
+    padding-top: 40px;
+
+}
